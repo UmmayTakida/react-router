@@ -7,10 +7,10 @@
  ## For the css-style stared using react-bootstrap
 
  ## project can be showed by deploying netlify
- here is the netlify_link to show open the Browser and click (https://zen-hypatia-340fb2.netlify.app/)
+ here is the netlify_link to show open the Browser and click ()
 
  ## the code had pusded in the private githyb repo
- here is the code_link (https://github.com/ProgrammingHeroWC4/review-website-UmmayTakida)
+ here is the code_link ()
 
 
 
